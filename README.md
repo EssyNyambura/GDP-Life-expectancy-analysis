@@ -9,14 +9,14 @@ file from Kaggle on Life expectancy (https://www.kaggle.com/datasets/kumarajarsh
 
 # Research questions:
 
-<li>What is the estimated average life expectancy across all countries, and how precisely can we estimate it?</li>
-<li>Does life expectancy vary significantly based on a country's development status?</li>
-<li>Do developed countries have a significantly higher GDP than developing countries?</li>
-<li>Does GDP per capita predict life expectancy?</li>
+<ul>1. What is the estimated average life expectancy across all countries, and how precisely can we estimate it?</ul>
+<ul>2. Does life expectancy vary significantly based on a country's development status?</ul>
+<ul>3. Do developed countries have a significantly higher GDP than developing countries?</ul>
+<ul>4. Does GDP per capita predict life expectancy?</ul>
 
 
 # Summary of key findings
-<ul>Developed countries have a significantly higher life expectancy than developing countries (p < 0.05).</ul>
-<ul>Developed countries have a significantly higher GDP than developing countries (p < 0.05).</ul>
-<ul>A moderate positive correlation exists between GDP and life expectancy (Pearson's r > 0), which is statistically significant.</ul>
-<ul>The relationship is moderate, not strong, suggesting GDP is one of several determinants of life expectancy — alongside healthcare infrastructure, lifestyle, genetics, and environmental factors.</ul>
+<li>Developed countries have a significantly higher life expectancy than developing countries (p < 0.05).</li>
+<li>Developed countries have a significantly higher GDP than developing countries (p < 0.05).</li>
+<li>A moderate positive correlation exists between GDP and life expectancy (Pearson's r > 0), which is statistically significant.</li>
+<li>The relationship is moderate, not strong, suggesting GDP is one of several determinants of life expectancy — alongside healthcare infrastructure, lifestyle, genetics, and environmental factors.</li>
