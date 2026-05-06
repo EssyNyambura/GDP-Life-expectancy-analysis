@@ -26,4 +26,5 @@ Skills used:
 <li>A moderate positive correlation exists between GDP and life expectancy (Pearson's r > 0), which is statistically significant.</li>
 <li>The relationship is moderate, not strong, suggesting GDP is one of several determinants of life expectancy — alongside healthcare infrastructure, lifestyle, genetics, and environmental factors.</li>
 
-This is my first every data analysis project that I did as a Home Assignment. Any feedback/ comments are greatly appreciated✨✨.
+
+* This is my first every data analysis project that I did as a Home Assignment. Any feedback/ comments are greatly appreciated✨✨.
